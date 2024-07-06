@@ -19,7 +19,7 @@ Currently, the initiative consists of four projects. They are all accessible fro
 
 News and perspectives related to the initiative can be found on the Digital Thoreau [blog](https://digitalthoreau.org/blog/).
 
-## <a name="workshop-overview"></a> Workshop Overview
+## <a name="workshop-overview"></a> Workshop Overview [&#8673;](#contents)
 
 This workshop will introduce you to The Readers' Thoreau, *Walden: A Fluid-Text Edition*, and the *Walden* Manuscript Project.
 
@@ -47,10 +47,20 @@ In the workshop, we'll go over the following:
 - How to find and contribute to open access scholarship and teaching resources on the site
 - Where to find help using the site
 
-
 ## <a name="fluid-text"></a> *Walden: A Fluid-Text Edition* [&#8673;](#contents)
 
-Intro to fluid text
+If you have time, you may find it useful to read through the "Introduction" to the fluid-text edition.
+
+In the workshop, we'll go over the following:
+
+- The history of the *Walden* manuscript
+- Scholarship on the manuscript that has made the fluid-text edition possible
+- How to compare the transcribed manuscript versions in the fluid-text with each other and the Princeton University Press edition of the published *Walden* of 1854
+- How to understand the symbols and colors used in the fluid-text edition to indicate inserted text, deleted text, etc.
+
+In our review of the *Walden* manuscript's history, we'll look together at the slides below.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeK0Lq97sYxxMJNb7FEn6MrZaiD5BriEO6N6LZTFWRg8Pfl6X_HEy06OH0bt4Y2G3fR6qI4VuGuLXz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## <a name="walden-ms-project"></a> The *Walden* Manuscript Project [&#8673;](#contents)
 
