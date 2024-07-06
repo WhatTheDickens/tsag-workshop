@@ -1,6 +1,6 @@
-# Digital Thoreau Workshop
+# What Can You Do With Digital Thoreau?
 
-## <a name="contents"></a> Contents
+<a name="contents"></a>
 
 - [Digital Thoreau Overview](#digital-thoreau-overview)
 - [Workshop Overview](#workshop-overview)
@@ -41,7 +41,7 @@ Be on the lookout for an email inviting you to register an account on the site a
 
 To complete the registration process, you'll need to watch for an email asking you to confirm your registration. If you don't see it in your email inbox, check to see if it landed in your spam folder.
 
-In the workshop, we'll go over the following:
+In this portion of the workshop, we'll go over the following:
 
 - How to leave a comment on a text.
 - How to reply to a comment on a text.
@@ -57,7 +57,7 @@ In the workshop, we'll go over the following:
 
 If you have time, you may find it useful to read through the ["Introduction"](https://digitalthoreau.org/fluid-text-toc/) to the fluid-text edition.
 
-In the workshop, we'll go over the following:
+In this portion of the workshop, we'll go over the following:
 
 - The history of the *Walden* manuscript.
 - Scholarship on the manuscript that has made the fluid-text edition possible.
@@ -71,7 +71,7 @@ In our review of the *Walden* manuscript's history, we'll look together at the s
 <p>&nbsp;</p>
 ### <a name="walden-ms-project"></a> The *Walden* Manuscript Project [&#8673;](#contents)
 
-In the workshop, we'll go over the following:
+In this portion of the workshop, we'll go over the following:
 
 - How to view HM 924, the manuscript of *Walden*, and HM 925, the publisher's proof sheets of *Walden*, on the Huntington Library website.
 - How to use the *Walden* Manuscript Project's [Manuscript Search Tool](https://digitalthoreau.org/manuscript-search-tool/) to locate manuscript images corresponding to paragraphs and paragraph segments in the fluid-text edition.
