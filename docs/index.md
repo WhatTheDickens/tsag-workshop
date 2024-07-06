@@ -1,3 +1,5 @@
+# Digital Thoreau Workshop
+
 ## <a name="contents"></a> Contents
 
 - [Digital Thoreau Overview](#digital-thoreau-overview)
@@ -64,4 +66,10 @@ In our review of the *Walden* manuscript's history, we'll look together at the s
 
 ## <a name="walden-ms-project"></a> The *Walden* Manuscript Project [&#8673;](#contents)
 
-Basics of the *Walden* MS project
+In the workshop, we'll go over the following:
+
+- How to view HM 924, the manuscript of *Walden*, and HM 925, the publisher's proof sheets of *Walden*, on the Huntington Library website
+- How to use the *Walden* Manuscript Project's [Manuscript Search Tool](https://digitalthoreau.org/manuscript-search-tool/) to locate manuscript images corresponding to paragraphs and paragraph segments in the fluid-text edition
+- Physical characteristics of the *Walden* manuscript not captured by the fluid text's transcription but important for understanding Thoreau's revision process
+
+Working in groups, you'll select manuscript images for examination and discussion, sharing your findings and questions.
