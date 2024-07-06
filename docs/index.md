@@ -26,6 +26,8 @@ News and perspectives related to the initiative can be found on the Digital Thor
 
 This workshop will introduce you to [The Readers' Thoreau](https://commons.digitalthoreau.org), [*Walden: A Fluid-Text Edition*](https://digitalthoreau.org/fluid-text-toc/), and the [*Walden* Manuscript Project](https://digitalthoreau.org/the-walden-manuscript-project/).
 
+<p style="border:1px solid black;border-radius:15px;background:#deedff;padding:1.5em;max-width: 500px;font-style:italic;"><strong>Note:</strong> You'll get the most out this workshop if you bring a laptop computer.</p>
+
 In the workshop, you'll
 
 - Register an account on [The Readers' Thoreau](https://commons.digitalthoreau.org) (if you haven't done so already), join a private reading group on the site created just for workshop participants, and learn how to use the site to annotate texts by Thoreau and connect with other readers.
@@ -47,7 +49,7 @@ In the workshop, we'll go over the following:
 - How to search for comments by commenter.
 - How to embed content in a comment.
 - How to use the group forum.
-- How to request a new group for a class or other purpose.
+- How to request a new group for a class you're teaching or for some other purpose.
 - How to find and contribute to open access scholarship and teaching resources on the site.
 - Where to find help using the site.
 
