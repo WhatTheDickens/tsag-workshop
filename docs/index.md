@@ -64,6 +64,7 @@ In our review of the *Walden* manuscript's history, we'll look together at the s
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeK0Lq97sYxxMJNb7FEn6MrZaiD5BriEO6N6LZTFWRg8Pfl6X_HEy06OH0bt4Y2G3fR6qI4VuGuLXz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+<p>&nbsp;</p>
 ## <a name="walden-ms-project"></a> The *Walden* Manuscript Project [&#8673;](#contents)
 
 In the workshop, we'll go over the following:
