@@ -58,7 +58,7 @@ In the workshop, we'll go over the following:
 - How to compare the transcribed manuscript versions in the fluid-text with each other and the Princeton University Press edition of the published *Walden* of 1854
 - How to understand the symbols and colors used in the fluid-text edition to indicate inserted text, deleted text, etc.
 
-In our review of the *Walden* manuscript's history, we'll look together at the slides below.
+In our review of the *Walden* manuscript's history, we'll look together at the slides below. (Use the three vertical dots to the right of the slide numbers to enter full screen.)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQeK0Lq97sYxxMJNb7FEn6MrZaiD5BriEO6N6LZTFWRg8Pfl6X_HEy06OH0bt4Y2G3fR6qI4VuGuLXz/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="285" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
