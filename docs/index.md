@@ -61,7 +61,7 @@ In this portion of the workshop, we'll go over the following:
 
 - The history of the *Walden* manuscript.
 - Scholarship on the manuscript that has made the fluid-text edition possible.
-- How to compare the transcribed manuscript versions in the fluid-text with each other and the Princeton University Press edition of the published *Walden* of 1854.
+- How to compare the transcribed manuscript versions in the fluid-text with each other and the Princeton University Press edition of *Walden*.
 - How to understand the symbols and colors used in the fluid-text edition to indicate inserted text, deleted text, etc.
 
 In our review of the *Walden* manuscript's history, we'll look together at the slides below. (On a desktop or laptop, use the three vertical dots to the right of the slide numbers to enter full screen.)
