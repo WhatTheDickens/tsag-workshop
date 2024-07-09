@@ -55,7 +55,7 @@ In this portion of the workshop, we'll go over the following:
 
 ### <a name="fluid-text"></a> *Walden: A Fluid-Text Edition* [&#8673;](#contents)
 
-If you have time, you may find it useful to read through the ["Introduction"](https://digitalthoreau.org/fluid-text-toc/) to the fluid-text edition.
+If you have time, you may find it useful to read through the [Preface](https://digitalthoreau.org/fluid-text-toc/) to the fluid-text edition. If you have even more time, you may find it useful to read the [Editorial Introduction](https://digitalthoreau.org/fluid-text-toc/) as well.
 
 In this portion of the workshop, we'll go over the following:
 
