@@ -11,7 +11,7 @@
 
 ## <a name="digital-thoreau-overview"></a> Digital Thoreau Overview
 
-[Digital Thoreau](https://digitalthoreau.org) is a collaborative initiative of the [State University of New York at Geneseo](https://geneseo.edu), [The Thoreau Society](https://thoreausociety.org), and the [Walden Woods Project](https://walden.org) whose mission is to promote public engagement with the writings of Henry David Thoreau.
+[Digital Thoreau](https://digitalthoreau.org) is a collaborative initiative of the [State University of New York at Geneseo](https://geneseo.edu), [The Thoreau Society](https://thoreausociety.org), and the [Walden Woods Project](https://walden.org). Its mission is to promote public engagement with the writings of Henry David Thoreau.
 
 Currently, the initiative consists of four projects. They are all accessible from the main landing page of [Digital Thoreau](https://digitalthoreau.org).
 
@@ -84,5 +84,6 @@ Working in groups, you'll select manuscript images for examination and discussio
 - [J. Lyndon Shanley, *The Making of* Walden, *with the Text of the First Version* at Internet Archive](https://archive.org/details/makingofwaldenwi0000shan/page/n5/mode/2up)
 - [Workshop Slides](https://docs.google.com/presentation/d/1Jbp14ri61c6hvCuk8fgwxd0FXkCkJVTn37ifVijqXqs/edit?usp=sharing)
 - [Pages from Thoreau's Journal (Fall-Winter 1845-1846)](resources/journal.pdf)
+- [Journal manuscript pages](resources/MA-1303-pages.pdf)
 - [HM 924 and HM 925 in the Huntington Digital Library](https://cdm16003.contentdm.oclc.org/digital/collection/p16003coll16)
 - [The Writings of Henry D. Thoreau](https://thoreau.library.ucsb.edu/)
